@@ -1,0 +1,21 @@
+h1 {
+    background-color: rgb(9, 94, 204);
+}
+
+.img {
+    background-size: cover;
+    width: 330px;
+    height: 310px;
+    background-image: url();
+
+}
+ 
+.img p {
+    color: rgb(105, 7, 7);
+    padding: 10px;
+    text-align: center;
+}
+
+ul {
+    font-weight: 900;
+}
